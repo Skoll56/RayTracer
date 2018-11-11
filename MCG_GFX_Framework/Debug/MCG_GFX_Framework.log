@@ -1,0 +1,7 @@
+﻿  Main.cpp
+d:\users\skoll\onedrive - bournemouth university\work\maths\raytracer\raytracer\main.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\maths\raytracer\raytracer\main.cpp(133): warning C4018: '<': signed/unsigned mismatch
+d:\users\skoll\onedrive - bournemouth university\work\maths\raytracer\raytracer\main.cpp(316): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\users\skoll\onedrive - bournemouth university\work\maths\raytracer\raytracer\main.cpp(317): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MCG_GFX_Framework.vcxproj -> D:\Users\Skoll\OneDrive - Bournemouth University\Work\Maths\RayTracer\RayTracer\Debug\MCG_GFX_Framework.exe
+  MCG_GFX_Framework.vcxproj -> D:\Users\Skoll\OneDrive - Bournemouth University\Work\Maths\RayTracer\RayTracer\Debug\MCG_GFX_Framework.pdb (Full PDB)
